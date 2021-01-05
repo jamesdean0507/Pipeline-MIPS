@@ -1,5 +1,4 @@
-# CS3339-Final-Project
-MIPS Pipeline Simulator
+#MIPS Pipeline Simulator
 Supports Instructions: (ADDI is not implemented, instead I implemented NOR)
 J, BEQ,
 ADD, SUB
